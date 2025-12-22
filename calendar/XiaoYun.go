@@ -1,6 +1,6 @@
 package calendar
 
-import "github.com/webahua/lunar-go/LunarUtil"
+import "github.com/Gbyte-Group/lunar-go/LunarUtil"
 
 // XiaoYun 小运
 type XiaoYun struct {

@@ -1,10 +1,10 @@
-# lunar [![License](https://img.shields.io/badge/license-MIT-4EB1BA.svg?style=flat-square)](https://github.com/webahua/lunar-go/blob/master/LICENSE)
+# lunar [![License](https://img.shields.io/badge/license-MIT-4EB1BA.svg?style=flat-square)](https://github.com/Gbyte-Group/lunar-go/blob/master/LICENSE)
 
 lunar is a calendar library for Solar and Chinese Lunar.
 
 > Support since go1.14
 
-[简体中文](https://github.com/webahua/lunar-go/blob/master/README.md)
+[简体中文](https://github.com/Gbyte-Group/lunar-go/blob/master/README.md)
 
 ## Example
 
@@ -12,7 +12,7 @@ lunar is a calendar library for Solar and Chinese Lunar.
  
     import (
         "fmt"
-        "github.com/webahua/lunar-go/calendar"
+        "github.com/Gbyte-Group/lunar-go/calendar"
     )
      
     func main() {

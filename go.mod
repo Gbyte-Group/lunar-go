@@ -1,3 +1,3 @@
-module github.com/webahua/lunar-go
+module github.com/Gbyte-Group/lunar-go
 
 go 1.14

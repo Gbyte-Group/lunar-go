@@ -1,7 +1,7 @@
 package calendar
 
 import (
-	"github.com/webahua/lunar-go/LunarUtil"
+	"github.com/Gbyte-Group/lunar-go/LunarUtil"
 )
 
 type Yun struct {

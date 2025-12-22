@@ -1,9 +1,10 @@
 package test
 
 import (
-	"github.com/webahua/lunar-go/SolarUtil"
-	"github.com/webahua/lunar-go/calendar"
 	"testing"
+
+	"github.com/Gbyte-Group/lunar-go/SolarUtil"
+	"github.com/Gbyte-Group/lunar-go/calendar"
 )
 
 func TestSolarWeek1(t *testing.T) {

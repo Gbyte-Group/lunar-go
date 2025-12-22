@@ -1,6 +1,6 @@
 package calendar
 
-import "github.com/webahua/lunar-go/LunarUtil"
+import "github.com/Gbyte-Group/lunar-go/LunarUtil"
 
 // NUMBER 九数
 var NUMBER = []string{"一", "二", "三", "四", "五", "六", "七", "八", "九"}
