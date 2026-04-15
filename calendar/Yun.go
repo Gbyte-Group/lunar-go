@@ -130,7 +130,7 @@ func (yun *Yun) GetStartSolar() *Solar {
 
 // GetDaYun 获取10轮大运
 func (yun *Yun) GetDaYun() []*DaYun {
-	return yun.GetDaYunBy(10)
+	return yun.GetDaYunBy(11)
 }
 
 // GetDaYunBy 获取大运
